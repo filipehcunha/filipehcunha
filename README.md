@@ -1,7 +1,8 @@
 ## Olá, eu sou o Filipe Hermenegildo!
 Sou um desenvolvedor Front-End
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipehcunha&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipehcunha&show_icons=true&theme=transparent) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipehcunha&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
