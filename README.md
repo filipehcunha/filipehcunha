@@ -1,5 +1,6 @@
 ## Olá, eu sou o Filipe Hermenegildo!
-Sou um desenvolvedor Front-End
+
+Técnico em Automacão Industrial pelo IFMG - Ouro Preto. Atualmente estudando e desenvolvendo com o foco em web.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipehcunha&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipehcunha&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
